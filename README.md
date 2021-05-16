@@ -1,4 +1,4 @@
-# Sentiment-Analysis-NLP
+# Sentiment Analysis - Sequential Natural Language Processing
 
 Project: Sentiment Analysis
 
